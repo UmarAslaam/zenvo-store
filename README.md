@@ -5,7 +5,7 @@
 Zenvo is a frontend-only online store for smart everyday gear (headphones, watches, bags, laptops). Visitors can browse products, view details, save favourites, manage a cart, apply a promo code and complete a simulated checkout. It is a demo project: there is no backend, database or real payment.
 
 - Live website: https://zenvoonlinestore.netlify.app
-- GitHub repository: _add your repository link here_
+- GitHub repository: https://github.com/UmarAslaam/zenvo-store
 
 ## Pages
 | Page | File |
